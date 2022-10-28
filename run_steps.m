@@ -17,7 +17,7 @@ duration_input = 300; %seconds
 freq_input = 1/6;
 
 % set duty cycle (percentage of non-zero value - zero value will be 100-D.C.) in %
-duty_cycle = 80;
+duty_cycle = 50;
 
 % Define units: 'b' for bar or 'V' for volts
 units = 'b';
