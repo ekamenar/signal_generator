@@ -6,7 +6,7 @@ function [input_rand_step, t] = steps(n_input, dt_input, duration_input, freq_in
 %   dt_input        : time step (sec)
 %   duration_input  : total signal duration (sec)
 %   freq_input      : frequency of input signal(s)
-%   duty_cycle      : duty cycle of input signal(s), i.e. percentage of nonzero values
+%   duty_cycle      : duty cycle of input signal(s), i.e. % of nonzero values
 %   units           : generated output (0...6 bar or -10 ... 10V)
 
 % Outputs:
